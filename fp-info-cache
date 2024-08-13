@@ -1,4 +1,4 @@
-23650072294480639
+23651793286707870
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63524,6 +63524,13 @@ Pot_9mm_DShaft_RemovedPins4_5
 0
 5
 3
+Library
+SOIC-8
+
+
+0
+8
+8
 Library
 SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm-SolderLugs
 Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf

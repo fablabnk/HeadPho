@@ -1,7 +1,11 @@
 
+Footprint for NJM4556AV-TE1 can be found here: https://componentsearchengine.com/part-view/NJM4556AV-TE1/New%20Japan%20Radio
+
 # Todo
 
-Convert panel holes to NPTH to avoid maximum plated hole size
+TODO: take power footprint out of stereo pot footprint (this overlap isn't good!)
+DONE: double check schematic against original
+TODO: Convert panel holes to NPTH to avoid maximum plated hole size warning (although we won't sent these to fab, so doesn't really matter)
 
 # Inspiration
 
