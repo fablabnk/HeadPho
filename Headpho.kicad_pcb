@@ -13463,8 +13463,8 @@
 		(uuid "fd1a4baa-2ef7-4ab4-91ba-101ff0036368")
 	)
 	(gr_rect
-		(start 50.8 39.89)
-		(end 71.12 168.39)
+		(start 50.8 50.8)
+		(end 71.12 157.48)
 		(stroke
 			(width 0.05)
 			(type dot)
