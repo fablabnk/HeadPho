@@ -8294,6 +8294,15 @@
 				(hide yes)
 			)
 		)
+		(property "Silkscreen Value" "100k▶"
+			(at 53.34 57.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "354ee8ca-7718-421a-aee5-87d5f0e19fa7")
 		)
@@ -8456,6 +8465,15 @@
 		)
 		(property "Description" ""
 			(at 53.34 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
+			(at 53.34 50.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8650,6 +8668,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 57.15 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "22uF▶"
 			(at 57.15 121.92 0)
 			(effects
 				(font
@@ -9631,6 +9658,15 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 57.15 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "◀22uF"
 			(at 57.15 134.62 0)
 			(effects
 				(font
