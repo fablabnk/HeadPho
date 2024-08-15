@@ -2337,7 +2337,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=1.50mm, , diameter=4mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 1.50mm  diameter 4mm Electrolytic Capacitor")
 		(property "Reference" "C2"
-			(at 0.75 3.25 270)
+			(at 0.75 3.25 -90)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "c10395cc-6797-4ed2-af23-95fb84d157e8")
@@ -2350,8 +2350,9 @@
 			)
 		)
 		(property "Value" "22uF"
-			(at -1.016 -4.064 360)
+			(at -1.016 -4.064 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "9ca5bb7a-c431-4115-b882-29c6434aefe1")
 			(effects
 				(font
@@ -2396,6 +2397,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Silkscreen Value" "◀22uF"
+			(at -0.762 -4.064 0)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "b5521bec-cbb7-4033-a25b-f0d52261a319")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -3409,7 +3423,7 @@
 			(uuid "8d454bc1-ccd6-432d-bdb2-091dbbd44929")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.75 0 270)
+			(at 0.75 0 -90)
 			(layer "B.Fab")
 			(uuid "7eded31a-4972-49f2-b20f-d51226bb1ff6")
 			(effects
@@ -3946,6 +3960,7 @@
 		(property "Value" "22uF"
 			(at -1.0046 3.937 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "61b6d7fd-493d-4aea-8587-3eb2a1c4b171")
 			(effects
 				(font
@@ -3990,6 +4005,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Silkscreen Value" "22uF▶"
+			(at -0.7506 4.064 0)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "8f29fc17-b27f-46fd-b924-d7c0e1f77e4a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -5307,6 +5335,7 @@
 		(property "Value" "100k"
 			(at 0 -3.556 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b951af1b-fb22-45b0-8cf5-36b8a6718f87")
 			(effects
 				(font
@@ -5351,6 +5380,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
+			(at 0 -3.6068 90)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "e28ca69c-4f1d-445d-8a38-a04c9a30efa7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
@@ -10807,6 +10849,7 @@
 		(property "Value" "100k"
 			(at 5.08 -3.556 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "fcbdad78-d348-4779-895d-2649192306e0")
 			(effects
 				(font
@@ -10851,6 +10894,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
+			(at 5.08 -3.6068 90)
+			(unlocked yes)
+			(layer "B.SilkS")
+			(uuid "1661faae-126c-4c23-88bd-e136250601b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 				(justify mirror)
 			)
