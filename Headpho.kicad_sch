@@ -5503,7 +5503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_4ms_Potentiometer:Potentiometer_Alps_RK09L_Double_Vertical"
+		(property "Footprint" "Library:Dual_9mm_Potentiometer_50K_RK1114GH"
 			(at 138.43 66.04 0)
 			(effects
 				(font
@@ -5521,7 +5521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50k Linear, 9mm pot, Dual, D-Shaft, Dual Row"
+		(property "Description" "VOLUME"
 			(at 133.35 59.69 0)
 			(effects
 				(font
@@ -5557,7 +5557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "50k"
+		(property "Display" "Dual 50k"
 			(at 137.16 59.6899 0)
 			(effects
 				(font
@@ -5921,7 +5921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_4ms_Potentiometer:Potentiometer_Alps_RK09L_Double_Vertical"
+		(property "Footprint" "Library:Dual_9mm_Potentiometer_50K_RK1114GH"
 			(at 137.16 38.1 0)
 			(effects
 				(font
@@ -5939,7 +5939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50k Linear, 9mm pot, Dual, D-Shaft, Dual Row"
+		(property "Description" "VOLUME"
 			(at 132.08 31.75 0)
 			(effects
 				(font
@@ -5975,7 +5975,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "50k"
+		(property "Display" "Dual 50k"
 			(at 129.54 33.0199 0)
 			(effects
 				(font
@@ -6042,7 +6042,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 114.3 76.708 90)
 			(effects
 				(font
@@ -6061,6 +6061,15 @@
 		)
 		(property "Description" ""
 			(at 114.3 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "◀1k"
+			(at 114.3 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6913,7 +6922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▲"
+		(property "Silkscreen Value" "◀104"
 			(at 72.39 121.92 0)
 			(effects
 				(font
@@ -6965,7 +6974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "PCM_4ms_Potentiometer:Potentiometer_Alps_RK09L_Double_Vertical"
+		(property "Footprint" "Library:Dual_9mm_Potentiometer_50K_RK1114GH"
 			(at 137.16 85.09 0)
 			(effects
 				(font
@@ -6983,7 +6992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "50k Linear, 9mm pot, Dual, D-Shaft, Dual Row"
+		(property "Description" "VOLUME"
 			(at 132.08 78.74 0)
 			(effects
 				(font
@@ -7019,7 +7028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "50k"
+		(property "Display" "Dual 50k"
 			(at 129.54 80.0099 0)
 			(effects
 				(font
@@ -7541,7 +7550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▼"
+		(property "Silkscreen Value" "104▶"
 			(at 139.7 31.75 0)
 			(effects
 				(font
@@ -9259,7 +9268,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 114.3 29.718 90)
 			(effects
 				(font
@@ -9278,6 +9287,15 @@
 		)
 		(property "Description" ""
 			(at 114.3 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "1k▼"
+			(at 114.3 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9934,7 +9952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 93.98 57.658 90)
 			(effects
 				(font
@@ -9953,6 +9971,15 @@
 		)
 		(property "Description" ""
 			(at 93.98 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
+			(at 93.98 55.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)

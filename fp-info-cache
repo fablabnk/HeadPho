@@ -1,4 +1,4 @@
-23651793286707870
+23655241055253620
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63483,6 +63483,13 @@ Yellow 5381 Series LED
 2
 2
 Library
+Dual_9mm_Potentiometer_50K_RK1114GH
+
+
+0
+8
+8
+Library
 EighthInch_PJ398SM_3mmNPTH
 
 
@@ -68942,6 +68949,13 @@ DPAK TO-252 DPAK-3 TO-252-3 SOT-428
 0
 7
 3
+PCM_4ms_Potentiometer
+Dual_9mm_Potentiometer_50K_RK1114GH
+
+
+0
+8
+6
 PCM_4ms_Potentiometer
 Pot_9mm_DShaft
 
