@@ -59,30 +59,10 @@
         }
       ],
       "drc_exclusions": [
-        "pth_inside_courtyard|55460000|98275000|544ba7cb-b144-41bb-9461-3e113657bf32|64dbab71-3ec9-4fa0-967a-5baa1f39b167",
-        "pth_inside_courtyard|55880000|101346000|c92b9ba1-db78-42fe-b93c-e10ec409043b|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|55880000|103886000|c7ed37a3-7e0b-4f22-9e3e-3399b305f826|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|55880000|63373000|11a96e92-d7b7-4c80-8be2-c6aecfcb18dd|37e2b80a-0974-46d9-8e5f-ccdf2da49967",
-        "pth_inside_courtyard|58420000|101346000|a405c84d-e933-4619-8901-843752afc431|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|58420000|103886000|e1a49353-8af0-485e-b322-0085c5ff56ce|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|60960000|101346000|14a03823-8a76-4285-a7ca-73a86fe54581|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|60960000|103886000|9e61768f-98a0-4039-8555-1d888db84332|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|63500000|101346000|8e36c43a-0169-4e29-b390-74a097a72e1d|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|63500000|103886000|26bc4301-497c-47ff-b12c-cf7e6c1103b1|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|66040000|101346000|19078b0c-0a55-4bb9-a784-3c5c8360cd9c|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|66040000|103886000|513af920-2f12-4165-8e6d-bd002b4f08ec|014c1cdf-8737-4a25-b6be-e4c78a9e2ee0",
-        "pth_inside_courtyard|66040000|63373000|f1fc5d5f-f065-46d5-9339-e8cc7d1ce8f2|c05f4abc-1d75-435e-9c3a-255140f8e7fd",
-        "pth_inside_courtyard|66460000|98275000|4fe16a05-90cf-43e8-880b-ef2a5953e326|64dbab71-3ec9-4fa0-967a-5baa1f39b167",
-        "silk_edge_clearance|50960000|107176000|4aacf813-b739-4170-8542-3a6c7e98fc88|0476f4db-72a8-40e2-819f-723f932e9ece",
         "silk_edge_clearance|50960000|145624550|4aacf813-b739-4170-8542-3a6c7e98fc88|269fada7-2bdd-4ed6-bbed-f864ae1d4a3a",
-        "silk_edge_clearance|50960000|98056000|4aacf813-b739-4170-8542-3a6c7e98fc88|7a18f7be-b1a1-4b97-bacc-a3a85111b94b",
-        "silk_edge_clearance|51016819|107851771|4aacf813-b739-4170-8542-3a6c7e98fc88|973caa3c-dd8f-467e-899d-0339dc51863e",
-        "silk_edge_clearance|51016819|62512771|4aacf813-b739-4170-8542-3a6c7e98fc88|c3756ab9-849a-40a2-8c1d-b8a09190f2e7",
-        "silk_edge_clearance|51016819|74704771|4aacf813-b739-4170-8542-3a6c7e98fc88|c0d5e80b-394e-461f-8860-58c97d0bd587",
-        "silk_edge_clearance|51016819|81261009|4aacf813-b739-4170-8542-3a6c7e98fc88|b0872c78-1bad-4400-878b-0d314d6e9f20",
-        "silk_edge_clearance|51016819|85059190|4aacf813-b739-4170-8542-3a6c7e98fc88|3af48848-1f9f-40ae-b815-963c42a33de9",
+        "silk_edge_clearance|50960000|81650000|4aacf813-b739-4170-8542-3a6c7e98fc88|7a18f7be-b1a1-4b97-bacc-a3a85111b94b",
+        "silk_edge_clearance|50960000|90770000|4aacf813-b739-4170-8542-3a6c7e98fc88|0476f4db-72a8-40e2-819f-723f932e9ece",
         "silk_edge_clearance|51028647|140123085|4aacf813-b739-4170-8542-3a6c7e98fc88|d6eeba17-500d-4179-a27b-c90188353f08",
-        "silk_edge_clearance|70903180|79701190|4aacf813-b739-4170-8542-3a6c7e98fc88|cc4cff4d-5839-4772-9c56-9b87f99d82e3",
         "silk_edge_clearance|70960000|152215160|4aacf813-b739-4170-8542-3a6c7e98fc88|fd1a4baa-2ef7-4ab4-91ba-101ff0036368"
       ],
       "meta": {
@@ -105,6 +85,7 @@
         "footprint_type_mismatch": "warning",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -119,7 +100,7 @@
         "net_conflict": "warning",
         "npth_inside_courtyard": "warning",
         "padstack": "warning",
-        "pth_inside_courtyard": "warning",
+        "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
         "silk_over_copper": "ignore",
@@ -204,7 +185,8 @@
       ],
       "track_widths": [
         0.0,
-        0.5
+        0.508,
+        0.762
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -516,6 +498,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

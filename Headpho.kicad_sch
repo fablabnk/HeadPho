@@ -4700,7 +4700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 93.98 104.648 90)
 			(effects
 				(font
@@ -4718,6 +4718,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 93.98 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
 			(at 93.98 102.87 0)
 			(effects
 				(font
@@ -5049,7 +5058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▼"
+		(property "Silkscreen Value" "104▲"
 			(at 72.39 134.62 0)
 			(effects
 				(font
@@ -5161,7 +5170,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 147.828 83.82 90)
 			(effects
 				(font
@@ -5179,6 +5188,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 146.05 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▲"
 			(at 146.05 83.82 0)
 			(effects
 				(font
@@ -5557,7 +5575,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "Dual 50k"
+		(property "Display" "Dual 50k B"
 			(at 137.16 59.6899 0)
 			(effects
 				(font
@@ -5716,6 +5734,15 @@
 				(hide yes)
 			)
 		)
+		(property "Silkscreen Value" "LME49720▲"
+			(at 92.71 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "851ac564-2d94-48da-a81d-d6f582372564")
 		)
@@ -5802,7 +5829,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▶"
+		(property "Silkscreen Value" "104▲"
 			(at 87.63 121.92 0)
 			(effects
 				(font
@@ -5975,7 +6002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "Dual 50k"
+		(property "Display" "Dual 50k B"
 			(at 129.54 33.0199 0)
 			(effects
 				(font
@@ -6068,7 +6095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "◀1k"
+		(property "Silkscreen Value" "1k▶"
 			(at 114.3 74.93 90)
 			(effects
 				(font
@@ -6267,6 +6294,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 54.61 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "LME49720▲"
 			(at 54.61 30.48 0)
 			(effects
 				(font
@@ -6496,7 +6532,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 76.2 79.248 90)
 			(effects
 				(font
@@ -6514,6 +6550,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▶"
 			(at 76.2 77.47 0)
 			(effects
 				(font
@@ -6751,7 +6796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 76.2 32.258 90)
 			(effects
 				(font
@@ -6769,6 +6814,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 76.2 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "◀100k"
 			(at 76.2 30.48 0)
 			(effects
 				(font
@@ -6845,7 +6899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "▲104"
+		(property "Silkscreen Value" "104▶"
 			(at 139.7 78.74 0)
 			(effects
 				(font
@@ -7028,7 +7082,7 @@
 				(hide yes)
 			)
 		)
-		(property "Display" "Dual 50k"
+		(property "Display" "Dual 50k B"
 			(at 129.54 80.0099 0)
 			(effects
 				(font
@@ -7123,7 +7177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▶"
+		(property "Silkscreen Value" "104▲"
 			(at 87.63 134.62 0)
 			(effects
 				(font
@@ -7398,6 +7452,15 @@
 				(hide yes)
 			)
 		)
+		(property "Silkscreen Value" "NJM4556AD▼"
+			(at 152.4 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "d747b689-dd0b-4467-b61f-f30a03a165c6")
 		)
@@ -7448,7 +7511,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1Ω"
 			(at 199.39 29.21 90)
 			(effects
 				(font
@@ -7456,7 +7519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 199.39 30.988 90)
 			(effects
 				(font
@@ -7474,6 +7537,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "1Ω"
 			(at 199.39 29.21 0)
 			(effects
 				(font
@@ -7550,7 +7622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▶"
+		(property "Silkscreen Value" "◀104"
 			(at 139.7 31.75 0)
 			(effects
 				(font
@@ -7696,6 +7768,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "NJM4556AD▲"
+			(at 152.4 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -8048,7 +8129,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1Ω"
 			(at 199.39 67.31 90)
 			(effects
 				(font
@@ -8056,7 +8137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 199.39 69.088 90)
 			(effects
 				(font
@@ -8074,6 +8155,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "1Ω▼"
 			(at 199.39 67.31 0)
 			(effects
 				(font
@@ -8150,7 +8240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▼"
+		(property "Silkscreen Value" "104▲"
 			(at 80.01 121.92 0)
 			(effects
 				(font
@@ -8277,7 +8367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 53.34 55.372 90)
 			(effects
 				(font
@@ -8303,7 +8393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "100k▶"
+		(property "Silkscreen Value" "◀100k"
 			(at 53.34 57.15 90)
 			(effects
 				(font
@@ -8455,7 +8545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 53.34 52.578 90)
 			(effects
 				(font
@@ -8481,7 +8571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "100k▶"
+		(property "Silkscreen Value" "100k▼"
 			(at 53.34 50.8 90)
 			(effects
 				(font
@@ -8658,7 +8748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 58.1152 125.73 0)
 			(effects
 				(font
@@ -8685,7 +8775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "22uF▶"
+		(property "Silkscreen Value" "◀22uF"
 			(at 57.15 121.92 0)
 			(effects
 				(font
@@ -9294,7 +9384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "1k▼"
+		(property "Silkscreen Value" "◀1k"
 			(at 114.3 27.94 90)
 			(effects
 				(font
@@ -9412,7 +9502,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1Ω"
 			(at 199.39 20.32 90)
 			(effects
 				(font
@@ -9420,7 +9510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 199.39 22.098 90)
 			(effects
 				(font
@@ -9438,6 +9528,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 20.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "1Ω"
 			(at 199.39 20.32 0)
 			(effects
 				(font
@@ -9486,7 +9585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 147.828 36.83 90)
 			(effects
 				(font
@@ -9504,6 +9603,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 146.05 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "100k▼"
 			(at 146.05 36.83 0)
 			(effects
 				(font
@@ -9657,7 +9765,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm"
 			(at 58.1152 138.43 0)
 			(effects
 				(font
@@ -9684,7 +9792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "◀22uF"
+		(property "Silkscreen Value" "22uF▶"
 			(at 57.15 134.62 0)
 			(effects
 				(font
@@ -9725,7 +9833,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "1Ω"
 			(at 199.39 76.2 90)
 			(effects
 				(font
@@ -9733,7 +9841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 199.39 77.978 90)
 			(effects
 				(font
@@ -9751,6 +9859,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 199.39 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "1Ω▼"
 			(at 199.39 76.2 0)
 			(effects
 				(font
@@ -9820,6 +9937,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 92.71 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "LME49720▲"
 			(at 92.71 27.94 0)
 			(effects
 				(font
@@ -9978,7 +10104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "100k▶"
+		(property "Silkscreen Value" "◀100k"
 			(at 93.98 55.88 90)
 			(effects
 				(font
@@ -10111,6 +10237,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 54.61 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Silkscreen Value" "LME49720▲"
 			(at 54.61 77.47 0)
 			(effects
 				(font
