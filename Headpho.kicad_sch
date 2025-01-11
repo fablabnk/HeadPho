@@ -6558,7 +6558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "100k▶"
+		(property "Silkscreen Value" "100k▲"
 			(at 76.2 77.47 0)
 			(effects
 				(font
@@ -6976,7 +6976,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "◀104"
+		(property "Silkscreen Value" "▼104"
 			(at 72.39 121.92 0)
 			(effects
 				(font
@@ -7177,7 +7177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▲"
+		(property "Silkscreen Value" "104▶"
 			(at 87.63 134.62 0)
 			(effects
 				(font
@@ -7545,7 +7545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "1Ω"
+		(property "Silkscreen Value" "1Ω▶"
 			(at 199.39 29.21 0)
 			(effects
 				(font
@@ -8163,7 +8163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "1Ω▼"
+		(property "Silkscreen Value" "▼1Ω"
 			(at 199.39 67.31 0)
 			(effects
 				(font
@@ -8852,7 +8852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▲"
+		(property "Silkscreen Value" "104▶"
 			(at 64.77 121.92 0)
 			(effects
 				(font
@@ -9243,7 +9243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "104▼"
+		(property "Silkscreen Value" "104▶"
 			(at 80.01 134.62 0)
 			(effects
 				(font
@@ -9536,7 +9536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Silkscreen Value" "1Ω"
+		(property "Silkscreen Value" "1Ω▶"
 			(at 199.39 20.32 0)
 			(effects
 				(font
